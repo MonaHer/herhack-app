@@ -1,0 +1,1534 @@
+{
+  "data": {
+    "articles": {
+      "cursor": "MjAyNC0xMC0yMVQwNjoxNDowNlo7NjcxNWYxM2IyY2NmZTEzNjg5NWU4ZTI0",
+      "edges": [
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:136212216",
+          "lead": [
+            {
+              "content": "In den «SRF Kids News» geht es zum einen um die US-Wahlen 2024 und zum anderen um Kristalle. Wenn du gut aufgepasst hast, sind unsere Quizfragen ein Leichtes für dich. Zeig uns dein Wissen!",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "Kamala Harris und Donald Trump sind die beiden Präsidentschaftskandidat:innen bei den US-Wahlen 2024. Aber was hat Taylor Swift damit zu tun?",
+              "Im zweiten Teil der Sendung trifft die 5. Klasse aus Seedorf (UR) einen Strahler. Was macht ein Strahler denn genau? Zeig uns dein Wissen im Quiz:",
+              "Noch mehr knifflige Fragen?",
+              "Dann mach mit live im Radio! Am Samstag und Sonntag von 19 bis 20 Uhr im Radio auf SRF 1 kannst du beim «Besserwisser» oder «Lügi-Spiel» miträtseln und tolle Preise gewinnen."
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            },
+            {
+              "name": {
+                "content": "SRF Kids News",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "Quiz zu den «SRF Kids News»",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-31T15:14:07Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-31T15:14:07Z",
+          "sourceId": "urn:srf:article:136212216",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/136212216/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/srf-kids-news/quiz-zu-den-srf-kids-news-was-weisst-du-ueber-die-us-wahlen"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/6134d16.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            }
+          ],
+          "title": [
+            {
+              "content": "Was weisst du über die US-Wahlen?",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/136212216"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:441047482",
+          "lead": [
+            {
+              "content": "In den Bergen im Kanton Uri gibt es wunderschöne Kristalle. Die Fünftklässlerinnen und Fünftklässler aus Seedorf finden heraus, wie diese Kristalle entstehen und treffen einen Kristallsucher  – einen Strahler!",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "SRF Kids besucht zweimal im Monat eine Schulklasse der 5. und 6. Primarstufe und macht mit den Schüler:innen gemeinsam einen Fernsehbeitrag für die «SRF Kids News», einen Radiobeitrag und einen Onlineartikel. Dieser Artikel, das oben angezeigte Video und der eingebaute Audiobeitrag sind im Rahmen eines SRF Medien-Workshops entstanden. Mehr Informationen findest du hier. ",
+              "Wir sind die Schülerinnen und Schüler der 6. Klasse in Seedorf im Kanton Uri! Direkt neben unserem Schulhaus gibt es ein Mineralienmuseum. Das finden wir mega spannend. Es gibt sehr viele schöne Kristalle bei uns im Kanton Uri. Einige Kinder unserer Klasse haben auch schon selbst nach Kristallen gesucht. Deshalb entscheiden wir uns dafür, im SRF Medien-Workshop noch mehr über Kristalle zu lernen.",
+              "Hör dir unseren Radiobeitrag an:",
+              "Kristalle entstehen, wenn eine Flüssigkeit abkühlt oder verdampft und die gelösten Stoffe sich wieder verbinden. Zum Beispiel, wenn Salzwasser verdampft, bleiben Salzkristalle zurück. So wachsen die Kristalle und bekommen ihre schöne Form.",
+              "Wir lernen vom Strahler",
+              "In der Kristallausstellung direkt neben unserem Schulhaus treffen wir Peter Amacher. Er ist Kristallsucher, also ein sogenannter Strahler, und hat über die Jahre schon mehr als 1'000 Kristalle gefunden. Auch alle Kristalle in der Ausstellung hat Peter Amacher entdeckt. Er erzählt uns, wieso er schon immer Strahler werden wollte: «Schon mit 12 oder 13 konnte ich mit meinem Onkel mit, der auch Strahler war. Einerseits begeisterte mich die Suche, das ist ähnlich wie eine Schatzsuche. Andererseits ist es beeindruckend, etwas in den Händen zu halten, das seit Millionen von Jahren niemand gesehen hat.»",
+              "Nach dem Besuch der Ausstellung dürfen wir auch noch zu Peter Amacher nach Hause, wo er eine private Kristallausstellung hat. Kristalle könne man gerade in Uri an vielen Orten finden: «Überall, wo es das richtige Gestein gibt, findet man Kristalle. Sogar bei mir zuhause habe ich im Boden schon Kristalle gefunden.» ",
+              "Nach dem Treffen mit Peter Amacher wissen wir viel mehr über Kristalle! Wenn du möchtest, kannst du beim nächsten Wanderausflug auch Ausschau nach Kristallen halten. Oder du kannst selbst Kristalle aus Salz züchten. Eine Anleitung dafür findest du hier: ",
+              "Das brauchst du:",
+              "Salz",
+              "heisses Wasser",
+              "zwei gleich grosse Gläser",
+              "langer dicker Faden (so lang wie die Gläser hoch sind)",
+              "Kugelschreiber, Holzstäbchen oder Bleistift",
+              "So geht's: \n",
+              "Danke fürs Lesen, Hören und Zuschauen! ",
+              "Roby, Colin, Cyrill, Noemi, Keahi, Mena, Nelli, Belinda, Ilaya, Leonardo, Gian Marco, Juna, Ben, Mohamad, Jeremias, Cataleya, Anna, Alessia, Larissa, Noah, Julian, Henry, Lia, Nick, Leara und Nina."
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "«SRF Kids in der Schule»",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-31T15:10:50Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-31T15:10:50Z",
+          "sourceId": "urn:srf:article:441047482",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/441047482/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/srf-kids-in-der-schule-verborgene-alpenschaetze-auf-kristallsuche-in-uri"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/7210db.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Der Strahler Peter Amacher erzählt uns in der Kristallausstellung neben unserer Schule alles über die Kristallsuche.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/6724e91.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF Kids / Damian Haas"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "In der Ausstellung kann man rund 100 Kristalle bestaunen.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/39dd65.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF Kids / Damian Haas"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Bei jedem Kristall steht, wo er gefunden wurde und aus welchen Mineralien er besteht. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/cd4ca7f.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF Kids / Damian Haas"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Viele der Kristalle wurden im Gotthardmassiv gefunden, das ist ein Teil der Alpen.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/1550dc7.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF Kids / Damian Haas"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Peter Amacher zeigt uns in seiner privaten Ausstellung in Amsteg noch mehr Kristalle, die er gefunden hat.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/a1126d.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF Kids / Damian Haas"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Direkt neben seinem Haus befindet sich sein Kristallkeller.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/fc70b6.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "SRF Kids / Damian Haas"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Die genaue Struktur der Kristalle können wir mit einem Mikroskop anschauen.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/93fcbc9.webp"
+              },
+              "width": 1280,
+              "height": 960,
+              "copyright": "SRF Kids / Damian Haas"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Wie viele Kristalle Peter Amacher in den letzten rund 50 Jahren gefunden hat, kann er nicht sagen. Es sind zu viele!",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/46cd936.webp"
+              },
+              "width": 1280,
+              "height": 960,
+              "copyright": "SRF Kids / Damian Haas"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Die 5. Klasse aus Seedorf im Kanton Uri",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/1da540.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "SRF Kids / Damian Haas"
+            }
+          ],
+          "title": [
+            {
+              "content": "Verborgene Alpenschätze: Auf Kristallsuche in Uri",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/441047482"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:414409458",
+          "lead": [
+            {
+              "content": "Geschnitzte Kürbisse und einen Haufen Süssigkeiten: Halloween ist eine wichtige und grosse Tradition in den USA. Eine amerikanische Familie, die in der Schweiz lebt, erzählt, wie sie Halloween feiert. Erfahre von Genevieve spannende Fakten rund um die USA!",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "Die USA – Ein Land, das alle interessiert",
+              "Ob durch Filme, Musik, Bräuche wie Halloween oder die Präsidentschaftswahlen – die USA sind ständig präsent. Besonders jetzt, wo die Präsidentschaftswahl vor der Tür steht, ist das Interesse weltweit gross. Kamala Harris tritt gegen Donald Trump an, und die ganze Welt schaut zu. Selbst berühmte Persönlichkeiten wie die Sängerin Taylor Swift sprechen darüber und ermutigen ihre Fans, wählen zu gehen.",
+              "Aber warum ist das für uns in der Schweiz so wichtig? Vieles was in den USA passiert, hat auch Auswirkungen auf Europa und die Schweiz. Das merkst du nicht nur in der Politik, sondern an Traditionen und Festen die in der Schweiz immer beliebter werden. So zum Beispiel auch Halloween. ",
+              "Halloween – Ein amerikanisches Fest mit europäischen Wurzeln",
+              "Die Nächte werden länger, der Wind stärker und überall tauchen Kürbisse auf. Es ist Halloween – das gruseligste Fest des Jahres. Besonders in den USA ist Halloween sehr beliebt und wird gross gefeiert. ",
+              "Aber wusstest du, dass dieser Brauch ursprünglich aus Europa kommt? Irische Auswander:innen brachten das Fest vor langer Zeit mit nach Amerika, wo es sich zu einem gigantischen Spektakel entwickelte. Heute feiern Kinder in den USA Halloween, indem sie von Haus zu Haus ziehen, um Süssigkeiten zu sammeln, und stecken dabei in den schaurigsten Kostümen. ",
+              "Wenn du in den USA an Halloween an einer Tür klingelst, musst du «Trick or Treat!» sagen. ",
+              "Auf Deutsch bedeutet das so viel wie «Ein Streich oder etwas Süsses!». Die Kinder verlangen damit eine Süssigkeit und wenn der oder die Bewohner:in des Hauses nichts hat, spielen sie ihm oder ihr einen Streich. ",
+              "In der Schweiz rufen die Kinder an der Haustür «Süsses oder Saures!»",
+              "Genevieve (12), die schon seit langer Zeit in der Schweiz lebt, schnitzt mit ihrer amerikanischen Familie jedes Jahr Kürbisse, die mit einer Kerze beleuchtet werden – die sogenannten «Jack O'Lanterns». Sie werden dann vor die Haustür gestellt und vertreiben die bösen Geister. Gleichzeitig signalisieren sie den Kindern an der Halloweennacht, dass jemand Zuhause ist und die Kinder an der Tür klingeln können. ",
+              "«Halloween ist in der Schweiz zwar immer beliebter», erzählt Genevieve. «Aber in den USA ist es riesig! Die Häuser werden aufwendig dekoriert. Manchmal scheint es so, als sei in den USA einfach alles grösser: die Feste, die Autos, die Städte.» ",
+              "Black Friday – Ein Shopping-Phänomen aus den USA",
+              "Doch Halloween ist nicht das einzige Fest, das Genevieve in der Schweiz feiert. Der sogenannte «Black Friday» ist in den letzten Jahren ebenfalls immer bekannter geworden. Dieser Tag voller Super-Schnäppchen und grosser Rabatte findet jedes Jahr am Freitag nach Thanksgiving statt und läutet die Weihnachtseinkaufssaison ein. Viele Geschäfte bieten an diesem Tag in den USA unglaubliche Rabatte – und auch in der Schweiz sieht man immer häufiger «Black Friday»-Angebote in den Läden und im Internet.",
+              "Thanksgiving ist ein wichtiger Feiertag in den USA, der jedes Jahr am vierten Donnerstag im November gefeiert wird. An diesem Tag kommen viele Familien zusammen, um für alles Gute im Leben dankbar zu sein. Es gibt ein grosses Festessen, bei dem oft ein Truthahn im Mittelpunkt steht. Dazu gibt es Beilagen wie Süsskartoffeln, Mais und Kürbiskuchen.",
+              "Thanksgiving ist nicht nur ein Tag des Essens, sondern auch ein Tag, um mit der Familie zusammen zu sein und die schönen Dinge im Leben zu feiern. Es ist ähnlich wie bei uns an Weihnachten – man freut sich, Zeit miteinander zu verbringen.",
+              "Obwohl die USA und die Schweiz sich in ihrer Grösse und in ihren Traditionen und Feiertagen unterscheiden, gibt es dennoch vieles, was über den Atlantik schwappt. Halloween, Black Friday oder auch die Präsidentschaftswahl – was in den USA passiert, beeinflusst uns auch hier.  "
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "«SRF Kids Reporter:in»",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-30T09:20:11Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-29T15:46:51Z",
+          "sourceId": "urn:srf:article:414409458",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/414409458/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/srf-kids-reporter-in-happy-halloween-so-feiert-man-in-den-usa"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/f6f147.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Amerikanische Tradition: Genevieve schnitzt zusammen mit ihrer Mutter Kürbisse.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/2c4e7c.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Kürbisse schnitzen gehört zum Halloween der USA dazu.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/34ed88.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Genevieve schnitzt eine Katze auf ihren Kürbis. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/4bfc1b.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Und hier siehst du die fertig geschnitzten Kürbisse. Ganz schön gruselig, oder? ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/0bf524.webp"
+              },
+              "width": 1280,
+              "height": 960,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Nicht nur orangene, sondern auch gelbe Kürbisse stehen zur Auswahl. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/a8ea8df.webp"
+              },
+              "width": 1280,
+              "height": 819,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Wenn der Kürbis fertig geschnitzt ist, stellt Genevieve ein Teelicht hinein und setzt wieder den Deckel drauf. So leuchtet die geschnitzte Form schön von innen. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/0df809.webp"
+              },
+              "width": 1280,
+              "height": 846,
+              "copyright": "SRF"
+            }
+          ],
+          "title": [
+            {
+              "content": "Happy Halloween! So feiert man in den USA",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/414409458"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:463569907",
+          "lead": [
+            {
+              "content": "Die USA: Ein Land, das weit weg scheint und doch nah ist. Ob durch Musik, Filme oder Bräuche wie Halloween – die USA prägen auch unseren Alltag. Im Quiz der Woche kannst du herausfinden, wie viel du über dieses faszinierende Land und seine Einflüsse weisst!",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "Im Quiz der Woche findest du spannende Fragen rund um die USA! Teste dein Wissen: Wusstest du, dass Halloween eigentlich europäische Wurzeln hat? Oder dass Black Friday mit unglaublichen Rabatten die Weihnachtssaison in den USA eröffnet? ",
+              "Genevieve (13) erlebt Halloween in der Schweiz auf besondere Weise. Gemeinsam mit ihrer amerikanischen Familie schnitzt sie jedes Jahr Kürbisse und stellt die leuchtenden «Jack O'Lanterns» vor die Haustür – ein Brauch, der böse Geister vertreiben und Kinder zur Tür locken soll. Sie erzählt, wie sie die Traditionen aus den USA bei sich zu Hause weiterführt und vergleicht, wie unterschiedlich die Schweiz und die USA sind. Höre die ganze Folge «SRF Kids Reporter:in» hier:",
+              "Noch mehr knifflige Quizfragen?",
+              "Dann schalte Radio SRF 1 ein! Am Samstag und Sonntag, jeweils von 19 bis 20 Uhr, kannst du beim «Besserwisser» oder im «Lügi-Spiel» mitraten und dabei tolle Preise gewinnen."
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "«Quiz der Woche»",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-29T15:46:40Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-29T15:46:40Z",
+          "sourceId": "urn:srf:article:463569907",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/463569907/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/quiz-der-woche-was-weisst-du-zu-den-herbsttraditionen-der-usa"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/205328.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            }
+          ],
+          "title": [
+            {
+              "content": "Was weisst du zu den Herbsttraditionen der USA?",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/463569907"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:384201098",
+          "lead": [
+            {
+              "content": "Magst du Musik und würdest gerne an ein richtiges Konzert gehen? Laurent & Max, Silberbüx, Bligg und viele andere spielen dieses Jahr Konzerte im Zauberpark am Flughafen Zürich. Mit etwas Glück gewinnst du bei uns Tickets!",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "Wie du auf den Bildern siehst, herrscht im Zauberpark am Flughafen Zürich eine richtig schöne Stimmung. Und das Programm lässt keine Wünsche übrig: Lichtshows, Workshops, und ganz viele Konzerte erwarten dich im Zauberpark! Unter vielen anderen tollen Stars treten Bligg, Silberbüx und Laurent & Max auf. Und für diese drei Acts kannst du bei uns Tickets gewinnen!",
+              "So kannst du gewinnen",
+              "Es ist ganz einfach: Wir losen aus allen, die mitmachen, die Gewinner:innen aus. Du brauchst also einfach eine Portion Glück. Mitmachen kannst du bis am Donnerstag, 21. November 2024 um 12 Uhr. Wenn du gewinnst, dann bekommst du eine E-Mail. Wichtig, bevor du mitmachst: Frage deine Eltern, ob sie damit einverstanden sind und ob ihr an diesem Tag überhaupt Zeit habt, das Konzert in Zürich zu besuchen.",
+              "Wir kontaktieren nur die Gewinner:innen. Wenn du nach der Teilnahme nichts mehr von uns hörst, hast du leider nichts gewonnen.",
+              "Wir wünschen dir viel Glück! "
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "Ticket-Verlosung",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-29T10:13:19Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-29T10:13:19Z",
+          "sourceId": "urn:srf:article:384201098",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/384201098/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/ticket-verlosung-gewinne-tickets-fuer-den-zauberpark-am-flughafen-zuerich"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/b742479.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/93eb69.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "Zauberpark"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/447ff98.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "Zauberpark"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/cc25902.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "Zauberpark"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/dcc277.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "Zauberpark"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/a092cf.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "Zauberpark"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/2cf26a6.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "Zauberpark"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/ba8503.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "Zauberpark"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/55ecc62.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "Zauberpark"
+            }
+          ],
+          "title": [
+            {
+              "content": "Gewinne Tickets für den Zauberpark am Flughafen Zürich",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/384201098"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:182890064",
+          "lead": [
+            {
+              "content": "In den «SRF Kids News» erklärt dir Sandro das wichtige Thema «Cybermobbing». Weisst du, warum Cybermobbing so problematisch ist und was du dagegen tun kannst?",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "Mobbing geschieht nicht nur auf dem Pausenplatz. Auch im Internet kann gemobbt werden. Dann spricht man von Cybermobbing. Aber was ist das eigentlich genau? Und was kannst du gegen Mobbing und Cybermobbing tun? Teste jetzt dein Wissen im Quiz zu den «SRF Kids News»: ",
+              "Noch mehr knifflige Fragen?",
+              "Dann mach mit live im Radio! Am Samstag und Sonntag von 19 bis 20 Uhr im Radio auf SRF 1 kannst du beim «Besserwisser» oder «Lügi-Spiel» miträtseln und tolle Preise gewinnen."
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            },
+            {
+              "name": {
+                "content": "SRF Kids News",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "Quiz zu den «SRF Kids News»",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-24T14:55:31Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-24T14:55:31Z",
+          "sourceId": "urn:srf:article:182890064",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/182890064/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/srf-kids-news/quiz-zu-den-srf-kids-news-was-weisst-du-ueber-cybermobbing"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/50116e.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            }
+          ],
+          "title": [
+            {
+              "content": "Was weisst du über Cybermobbing?",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/182890064"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:477565047",
+          "lead": [
+            {
+              "content": "Sandro ist der Neue bei den «SRF Kids News». Seine Lieblingsbeschäftigung? Essen!! In seiner Freizeit ist er entweder unterwegs, um neue Orte zu entdecken und Leute zu treffen, oder zuhause am Lesen. Er arbeitet auch noch bei Radio SRF 3. Dort hörst du ihn jeweils am Freitagmorgen.",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "Das mag Sandro besonders",
+              "Essen! Vor allem Pasta, Schoggi und Glacé, aber auch thailändisches Essen",
+              "Skifahren, Reisen und Ausflüge an neue Orte",
+              "Lesen (Krimis und Nachrichten)",
+              "Das mag er gar nicht",
+              "Blauschimmelkäse, Pilze und Oliven",
+              "unangenehme Gerüche",
+              "Schlechte Laune (bei mir und bei anderen)",
+              "Sandros Lieblingsmusik",
+              "«Ich höre viel Verschiedenes, am liebsten die Musik, die Radio SRF 3 spielt. Dort arbeite ich, wenn ich nicht für die 'SRF Kids News' im Einsatz bin. Ich besuche sehr gerne Konzerte. In den letzten Monaten war ich bei The 1975, Holly Humberstone, Nothing But Thieves und Avril Lavigne.»",
+              "Sein Geheimnis",
+              "«Obwohl ich so gerne esse, kann ich überhaupt nicht kochen. Ich scheitere schon beim Teigwaren zubereiten. Sie sind immer versalzen. Backen dagegen klappt ganz gut.»"
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            },
+            {
+              "name": {
+                "content": "Über uns",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "Moderator Sandro",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-24T08:29:06Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-24T08:29:06Z",
+          "sourceId": "urn:srf:article:477565047",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/477565047/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/ueber-uns/moderator-sandro-ich-esse-fuer-mein-leben-gerne"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/2396b6.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Sandro liest gerne in seiner Freizeit...",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/871b1c.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "...Bücher sind aber auch zu anderen Zwecken gut, hat er gemerkt. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/dea427.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Sandro fotografiert auch gerne in der Freizeit.",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/7d96d7.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Porträt von Sandro am ersten Schultag",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/799694.webp"
+              },
+              "width": 1280,
+              "height": 1273,
+              "copyright": "zVg"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Sandro wandert und isst schon seit langer Zeit gerne. Wenn nur nicht die Sonne so blenden würde...",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/a4b4f9.webp"
+              },
+              "width": 1280,
+              "height": 1644,
+              "copyright": "zVg"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Telefonieren bis die Ohren heiss werden...zum Glück gibt's heute Kopfhörer!",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/761212.webp"
+              },
+              "width": 1280,
+              "height": 1423,
+              "copyright": "zVg"
+            }
+          ],
+          "title": [
+            {
+              "content": "«Ich esse für mein Leben gerne»",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/477565047"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:433169960",
+          "lead": [
+            {
+              "content": "Ständiges Ärgern und Ausgeschlossen werden – jedes dritte Kind in der Schweiz hat schon Mobbing erlebt. So auch SRF Kids Kinderreporterin Ayleen (13) und Musikerin Nicky B Fly. Sie teilen ihre persönlichen Erfahrungen, um das Tabuthema zu brechen und Betroffenen Mut zu machen, sich Hilfe zu holen.",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "Als die Musikerin Nicky B Fly über den Schulhof ihrer alten Schule geht, kommen viele schmerzhafte Erinnerungen hoch. In ihrer Schulzeit wurde sie nämlich immer wieder ausgegrenzt und gehänselt.",
+              "Auch SRF Kids Kinderreporterin Ayleen (13) hat Mobbing erlebt. Die beiden erzählen Moderatorin Angela ihre Geschichte.",
+              "Mobbing – Wie ein schwarzes Loch im Bauch",
+              "Mobbing ist ein schweres und trauriges Thema. Es bedeutet, dass eine Person immer wieder von anderen geärgert, ausgeschlossen oder verletzt wird. Zum Beispiel durch fiese Bemerkungen, Hänseleien oder das Verbreiten von Gerüchten. Manchmal bleiben die Worte, manchmal die Blicke, aber oft bleibt das Gefühl, nicht dazuzugehören. In der Schweiz hat jedes dritte Kind während der Schulzeit Erfahrungen mit Mobbing gemacht – und die Zahlen steigen weiter.",
+              "Für die 34-jährige Nicky B Fly und Ayleen war Mobbing eine schwere Zeit. Sie fühlten sich oft hilflos und allein. Manchmal kamen sie sogar auf schlimme Gedanken. ",
+              "Wenn keiner hilft, tut es noch mehr weh",
+              "Die Hänseleien haben bei Nicky und Ayleen schleichend begonnen. Am Anfang waren es nur kleine Hänseleien, die aber immer regelmässiger und heftiger wurden. Schlussendlich eskalierte die Situation zu Mobbing. ",
+              "Im Rückblick auf diese Zeit wünscht sich Nicky B Fly, dass jemand eingegriffen hätte – ein Lehrer oder eine Freundin. Viele Kinder, die Mobbing beobachten, bleiben still, weil sie Angst haben, dass es noch schlimmer wird. Dabei ist es wichtig, etwas zu tun. Beobachtest du Mobbing, kannst du einem Erwachsenen Bescheid sagen oder dem betroffenen Kind zeigen, dass es nicht allein ist. ",
+              "Ayleen hätte sich auch eine Freundin gewünscht, die für sie da ist und mit der sie sprechen kann. Schon ein einfaches Gespräch oder eine kleine Geste der Freundschaft kann viel bewirken bei Mobbingopfern.",
+              "Darüber reden hilft!",
+              "Nicky bereut, dass sie damals nicht mit anderen über die Erfahrungen gesprochen hat. Vielleicht hätte sie so besser mit ihren Gefühlen umgehen können und das Mobbing hätte früher aufgehört. ",
+              "Ayleen spricht in einer Therapie über ihre Mobbingerfahrung. Dort kann sie mit einer Person reden, die ihr zuhört und hilft, die eigenen Gefühle zu verstehen. Es ist ein sicherer Ort, an dem man sagen darf, was man denkt und fühlt, ohne verurteilt zu werden.",
+              "Was ist Cybermobbing? ",
+              "Mobbing passiert nicht nur auf dem Schulhof. Cybermobbing ist eine Form von Mobbing, die online stattfindet – zum Beispiel in sozialen Netzwerken, durch gemeine Nachrichten oder durch das Veröffentlichen von peinlichen Bildern ohne Erlaubnis. Cybermobbing kann besonders schlimm sein, weil es die betroffene Person überall erreicht, auch zu Hause. ",
+              "Hilfe suchen! Du bist nicht allein",
+              "Wenn du selbst gemobbt wirst oder jemanden kennst, der oder die Mobbing erlebt, gibt es Hilfe. Du kannst dich immer an Erwachsene wenden – sei es deine Familie, Lehrer:innen oder andere Vertrauenspersonen. Ausserdem gibt es die kostenlose und anonyme Nummer 147, bei der du jederzeit anrufen kannst, wenn du Sorgen oder Fragen hast. Dort sind Menschen, die dir zuhören und dir helfen – auch ohne dass du sagst, wer du bist oder woher du kommst.",
+              "#SayHi – Gemeinsam gegen Mobbing",
+              "Die Aktion #SayHi setzt ein Zeichen für Freundschaft und gegen Mobbing. Nicky B Fly und der Sänger Nickless singen den Song «Boom Shaka Laka» für diese Aktion, und auch du kannst mittanzen und zeigen, dass du gegen Ausgrenzung bist. Gemeinsam stehen wir gegen Mobbing!",
+              "Reden hilft! Wende dich an eine Vertrauensperson (Eltern, Lehrperson oder Schulpsychologe) und sprich darüber.",
+              "Wende dich an die Fachstelle von Pro Juventute via Whatsapp, Mail oder Gratis-Telefon! Über das kostenlose Sorgentelefon 147 ist Tag und Nacht jemand für dich da.",
+              "Mach dir bewusst: Du kannst nichts dafür, dass du gemobbt wirst!"
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "«SRF Kids – Reporter:in»",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-22T14:50:08Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-22T14:50:08Z",
+          "sourceId": "urn:srf:article:433169960",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/433169960/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/srf-kids-reporter-in-in-den-pausen-war-ich-ganz-allein"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/e03077.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Moderatorin Angela, SRF Kids Kinderreporterin Ayleen und die Musikerin Nicky B Fly auf dem Schulhof Loogarten, wo Nicky zur Schule gegangen ist. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/f32e4b.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "SRF "
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Nicky B Fly spricht über Erlebnisse aus ihrer Schulzeit. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/4c24e8.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Auf dem ehemaligen Schulhof kommen Nicky B Fly viele Erinnerungen hoch. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/fee7b7.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Auch Ayleen wurde vor einigen Jahren gemobbt. Mutig erzählt sie von dieser Zeit. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/385aac.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Geholfen hat Ayleen das Sprechen über die Probleme in der Schule. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/3bb8dd.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "In der Therapie kann Ayleen ihre Erlebnisse verarbeiten und nochmal in Ruhe über alles sprechen. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/b187f4.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF"
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Seitdem geht es ihr besser. Dank vielen Gesprächen und professioneller Hilfe kann Ayleen nun die schwere Zeit hinter sich lassen. ",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/6e59d6.webp"
+              },
+              "width": 1280,
+              "height": 853,
+              "copyright": "SRF"
+            }
+          ],
+          "title": [
+            {
+              "content": "«In den Pausen war ich ganz allein»",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/433169960"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:356068082",
+          "lead": [
+            {
+              "content": "Mobbing, Cybermobbing oder doch nur ein blöder Witz? Mobbing ist ein Thema, das viele betrifft. Nur wenige trauen sich, darüber zu sprechen. Im Quiz der Woche kannst du herausfinden, wie gut du dich bei diesem wichtigen Thema auskennst.",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "In der Schule lachen alle zusammen – aber nicht immer ist das Lachen freundlich. Manchmal steckt dahinter etwas, das weh tut: Mobbing. Es beginnt oft mit kleinen Sticheleien, wird aber schnell zu einem grossen Problem für die Betroffenen. Aber was ist Mobbing eigentlich genau? Wie fühlt es sich an, gemobbt zu werden? Und was kann man tun, wenn man selbst oder jemand anderes damit zu kämpfen hat? Finde es heraus im Quiz der Woche. ",
+              "SRF Kids Kinderreporterin Ayleen (13) war selbst auch schon einmal in einer solchen Situation. Gemeinsam mit der Musikerin Nicky B Fly spricht sie darüber. Beide teilen ihre Erlebnisse und erzählen, wie sie aus dem Mobbing wieder herausgefunden haben. Höre die ganze Folge «SRF Kids Reporter:in» hier: ",
+              "Reden hilft! Wende dich an eine Vertrauensperson (Eltern, Lehrperson oder Schulpsychologe) und sprich darüber",
+              "Wende dich an die Fachstelle von Pro Juventute via Chat, Mail oder Gratis-Telefon! Über das kostenlose Sorgentelefon 147 ist Tag und Nacht jemand für dich da.",
+              "Mach dir bewusst: Du kannst nichts dafür, dass du gemobbt wirst!",
+              "Noch mehr knifflige Quizfragen?",
+              "Dann schalte Radio SRF 1 ein! Am Samstag und Sonntag, jeweils von 19 bis 20 Uhr, kannst du beim «Besserwisser» oder im «Lügi-Spiel» mitraten und dabei tolle Preise gewinnen."
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            },
+            {
+              "name": {
+                "content": "#SayHi",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "Quiz zu #SayHi 2024",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-22T14:50:05Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-22T14:50:05Z",
+          "sourceId": "urn:srf:article:356068082",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/356068082/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/sayhi/quiz-zu-sayhi-2024-was-weisst-du-zum-thema-mobbing"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/bbd9de.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            }
+          ],
+          "title": [
+            {
+              "content": "Was weisst du zum Thema Mobbing?",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/356068082"
+          },
+          "relatedArticles": null
+        },
+        {
+          "id": "urn:pdp:cms_srf:article:urn:srf:article:389536357",
+          "lead": [
+            {
+              "content": "Es geht richtig ab in diesem Schulhaus: Das Video zum #SayHi 2024-Song «Boom Shaka Laka» ist ready und heizt richtig ein. Lerne mit dem Tanztutorial die tollen Tanzschritte von Nicky B Fly, Nickless und der Tanzgruppe! Wir freuen uns auf dein Video!",
+              "language": null
+            }
+          ],
+          "content": {
+            "text": [
+              "Viel Konfetti, und plötzlich ist auch ein Alpaka zu sehen: Im Video von «Boom Shaka Laka», dem diesjährigen Song von #SayHi, geht es richtig ab. Möchtest du auch wie Nicky B Fly und Nickless sowie die vielen Kinder im Musikclip tanzen? Dann lerne die Tanzschritte mit dem Tanztutorial:",
+              "Wie jedes Jahr freuen wir uns, wenn du ein Video von deinem Tanz machst und es uns schickst. Ob alleine, mit deinen Geschwistern, deinen Freundinnen oder der ganzen Klasse: Sei dabei und setze ein Zeichen für Freundschaft und gegen Mobbing! Hier siehst du alle Videos vom letzten Jahr.",
+              "Wichtig ist, dass das Video in Querformat gemacht wird.",
+              "Was du ebenfalls brauchst: Die Erlaubnis deiner Eltern, dass du ein Video von dir an uns schickst und im Internet veröffentlichen lässt. Darum müssen deine Eltern die Einverständniserklärung von SRF (siehe unten) ausfüllen und im Formular unten hochladen.",
+              "Wir freuen uns auf dein Video!",
+              "Nicky B Fly und Nickless singen und tanzen in 2024 die Schweizer Version des #SayHi-Songs.",
+              "Der Song und das Tanztutorial werden am Montag, 21. Oktober 2024 hier auf srfkids.ch online sein.",
+              "Alle Kinder sind herzlich eingeladen, ein Video von ihrem Tanz zu schicken. Einsendeschluss der Tanz-Mitmach-Aktion ist am Sonntag, 24. November 2024.",
+              "Alle Infos zur europaweiten Anti-Mobbing-Kampagne #SayHi gibt es hier."
+            ]
+          },
+          "contributors": null,
+          "genres": [
+            {
+              "name": {
+                "content": "Kids",
+                "language": null
+              }
+            },
+            {
+              "name": {
+                "content": "#SayHi",
+                "language": null
+              }
+            }
+          ],
+          "kicker": [
+            {
+              "content": "#SayHi 2024: Tanz mit!",
+              "language": null
+            }
+          ],
+          "modifiedAt": "2024-10-21T06:14:06Z",
+          "provenance": "CMS_SRF",
+          "publisher": "SRF",
+          "releasedAt": "2024-10-21T06:14:06Z",
+          "sourceId": "urn:srf:article:389536357",
+          "sourceUrl": {
+            "url": "https://www.srf.ch/article/389536357/json"
+          },
+          "webUrl": {
+            "url": "https://www.srf.ch/kids/sayhi/sayhi-2024-tanz-mit-zeig-uns-dein-boom-shaka-laka"
+          },
+          "resources": [
+            {
+              "__typename": "Picture",
+              "name": null,
+              "description": null,
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/c44148d.webp"
+              },
+              "width": 1280,
+              "height": null,
+              "copyright": null
+            },
+            {
+              "__typename": "Picture",
+              "name": [
+                {
+                  "content": "",
+                  "language": null
+                }
+              ],
+              "description": [
+                {
+                  "content": "Konfetti und Spass: Nickless und Nicky B Fly im Clip von «Boom Shaka Laka».",
+                  "language": null
+                }
+              ],
+              "url": {
+                "url": "https://www.srf.ch/static/cms/images/1280w/00c39c.webp"
+              },
+              "width": 1280,
+              "height": 959,
+              "copyright": "sdf"
+            }
+          ],
+          "title": [
+            {
+              "content": "Zeig uns dein «Boom Shaka Laka»!",
+              "language": null
+            }
+          ],
+          "url": {
+            "url": "https://www.srf.ch/article/389536357"
+          },
+          "relatedArticles": null
+        }
+      ]
+    }
+  }
+}
