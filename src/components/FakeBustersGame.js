@@ -10,9 +10,9 @@ export default function FakeBustersGame() {
   const [resultMessage, setResultMessage] = useState(""); // State to store result message (true or fake)
   const [originalContent, setOriginalContent] = useState(""); // State to store the original content for verification
 
-  // Function to get random content from the articles
+  // Function to get random content from the SFR API (here it is api-response.json)
   const getRandomContent = () => {
-    // Select a random article from the list
+    // Select a random article (element) from the list
     const randomArticle = articles[Math.floor(Math.random() * articles.length)];
 
     if (randomArticle) {
@@ -51,7 +51,7 @@ export default function FakeBustersGame() {
     }
   };
 
-  // Function to send content to the bot for modification
+  // Function to send content to the bot ( here it is ChatGPT 3.5, could be any LLM, that provides an API) for modification
   const sendContentToBot = async () => {
     if (!randomContent.content) return; // Exit if there is no content to send
 
@@ -59,10 +59,10 @@ export default function FakeBustersGame() {
     switch (randomContent.type) {
       case "text":
         // Creating a prompt for modifying text content to 'fake news'
-        promptAndInput = `Take the content from the provided article and modify it to create a 'fake news' version for our school game aimed at 11-13-year-old children. 
+        promptAndInput = `Take the content from the provided article from the JSON data and modify it to create a 'fake news' version for our school game aimed at 11-13-year-old children. 
                             The article should still resemble the original in structure but include exaggerated or misleading information. 
                             For example, if the original article is about a school experiment, change it to say that students discovered a potion that allows them to fly after mixing common classroom supplies. 
-                            This version should still sound believable to promote critical thinking among the children about the validity of the information: ${randomContent.content}`;
+                            This version should be a text of around 300 characters and still sound believable to promote critical thinking among the children about the validity of the information: ${randomContent.content}`;
         break;
       case "headline":
         // Creating a prompt for modifying the headline to create three misleading but credible options
@@ -76,9 +76,9 @@ export default function FakeBustersGame() {
         break;
       case "image":
         // Creating a prompt for modifying an image to make it misleading yet believable
-        promptAndInput = `For our school game for 11-13-year-old children, I will provide you with an image URL. Modify the image slightly to make it appear misleading yet believable. 
+        promptAndInput = `For our school game for 11-13-year-old children, you will be provided with an image URL from the JSON data. Modify the image slightly to make it appear misleading yet believable. 
                             For instance, if the image shows a campaign rally, alter it to show a crowd that appears much larger than it actually was with the caption 'Record-Breaking Attendance at Candidate's Rally!' 
-                            This adjusted image should prompt children to analyze the authenticity and context of the visual content. ${randomContent.content}`;
+                            This adjusted image should challenge children to question and train their critical thinking and viewing habits and teach them to analyze the authenticity and context of the visual content. ${randomContent.content}`;
         break;
       default:
         promptAndInput = randomContent.content; // Default case if content type is not recognized
@@ -90,12 +90,12 @@ export default function FakeBustersGame() {
         "https://api.openai.com/v1/chat/completions",
         {
           model: "gpt-3.5-turbo",
-          messages: [{ role: "user", content: promptAndInput }], // Passing the prompt including the
+          messages: [{ role: "user", content: promptAndInput }], // Passing the prompt including the random chosen content from the SFR API (here api-response.json)
         },
         {
           headers: {
             "Content-Type": "application/json", // Setting content type
-            Authorization: `Bearer ${process.env.REACT_APP_OPENAI_API_KEY}`, // Including API key for authorization
+            Authorization: `Bearer ${process.env.REACT_APP_OPENAI_API_KEY}`, // API key for authorization
           },
         }
       );
@@ -117,14 +117,13 @@ export default function FakeBustersGame() {
     if (isTrue) {
       setResultMessage("It's true!"); // Message for true content
     } else {
-      setResultMessage("Fake news!"); // Message for fake news
+      setResultMessage("Fake news! The real news are these:", originalContent); // Message for fake news
     }
-    console.log("Original Content:", originalContent); // Logging the original content for debugging
   };
 
   return (
     <div style={{ padding: "20px", maxWidth: "600px", margin: "auto" }}>
-      <h1>News Verification Game</h1>
+      <h1>👻Fake Busters👻</h1>
 
       <button onClick={getRandomContent} style={{ marginBottom: "10px" }}>
         Show Random Content
@@ -132,17 +131,14 @@ export default function FakeBustersGame() {
 
       {randomContent.type && (
         <button onClick={sendContentToBot} style={{ marginLeft: "10px" }}>
-          Send Content to Chippy
+          Generate fake news
         </button>
       )}
 
-      {/* Display the randomly selected content */}
       <div style={{ marginTop: "20px" }}>
-        {randomContent.type === "text" && (
-          <p>{randomContent.content}</p> // Display text content
-        )}
+        {randomContent.type === "text" && <p>{randomContent.content}</p>}
         {randomContent.type === "headline" && (
-          <h5 style={{ fontWeight: "bold" }}>{randomContent.content}</h5> // Display headline content
+          <h5 style={{ fontWeight: "bold" }}>{randomContent.content}</h5>
         )}
         {randomContent.type === "image" && (
           <img
@@ -153,7 +149,6 @@ export default function FakeBustersGame() {
         )}
       </div>
 
-      {/* Display the bot's response */}
       {botResponse && (
         <div
           style={{
@@ -162,12 +157,11 @@ export default function FakeBustersGame() {
             border: "1px solid #ccc",
           }}
         >
-          <h6>Response from Chippy:</h6>
+          <h6>Generated Fake News</h6>
           <p>{botResponse}</p>
         </div>
       )}
 
-      {/* Buttons for user to determine if content is true or fake */}
       {randomContent.content && (
         <div style={{ marginTop: "20px" }}>
           <button
@@ -179,8 +173,6 @@ export default function FakeBustersGame() {
           <button onClick={() => handleResult(isGenerated)}>Fake</button>
         </div>
       )}
-
-      {/* Display the result message indicating whether the content is true or fake */}
       {resultMessage && <h6>{resultMessage}</h6>}
     </div>
   );
